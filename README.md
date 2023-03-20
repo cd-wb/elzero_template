@@ -1,6 +1,6 @@
 # Learning Design
 
-## Elzero[Elzero Web School design]() template HTML & CSS learning
+## Elzero [Elzero Web School design](https://elzero.org/) template HTML & CSS learning
 
 Transforme  design to a responsive webpage with HTML and CSS.
 
